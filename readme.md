@@ -4,12 +4,21 @@
 $ANON is a privacy-focused network built around protecting anonymous speech and expression through zero-knowledge cryptography. 
 
 ## Core Metrics
-- anonset size 
-- anonset with Farcaster accounts (link to Dune query)
-- anonset total net worth 
-- modset size 
-- modset with Farcaster accounts (link to Dune query)
-- modset total net worth 
+- anonset count
+- anonset total net worth (link to Dune query)
+- anonset average net worth (link to Dune query)
+
+- modset count
+- modset total net worth (link to Dune query)
+- modset average net worth (link to Dune query)
+
+## Profiles 
+- anonset profiles with Farcaster and X accounts
+- modset profiles with Farcaster and X accounts
+
+## Activity
+- new anonset members
+- new modset members
 
 ## Data Sources
 All metrics are pulled from on-chain data via Dune and Neynar. 
